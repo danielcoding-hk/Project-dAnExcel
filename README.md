@@ -1,4 +1,5 @@
 # Project-dAnExcel
+- Excel addin for handling repeated daily operation task on worksheet and pivot table
 ![alt text](https://github.com/danstudiohk/Project-dAnExcel/blob/master/img/Tab.JPG)
 
 ## A.Worksheet Function (developing)
