@@ -8,14 +8,16 @@
      
 ## B.Pivot Table Function (bug fixing)
 * Builder : include quick add & remove, summarize & formatting  
-![alt text](https://github.com/danstudiohk/Project-dAnExcel/blob/master/img/Pivot%20Bulider.JPG)
+![alt text](https://github.com/danstudiohk/Project-dAnExcel/blob/master/img/Pivot%20Bulider.JPG)  
+
 * Calculation Divide Tool : Quick create calculation field by many fields divided by one field  
-![alt text](https://github.com/danstudiohk/Project-dAnExcel/blob/master/img/Pivot%20Calculation%20Divide.JPG)
+![alt text](https://github.com/danstudiohk/Project-dAnExcel/blob/master/img/Pivot%20Calculation%20Divide.JPG)  
+
 * Manager : Quick refresh active workbook  
-## C.Useful Tool List (adding)
-* Password breaker (unstable)
-     * To break password protected worksheet (wait about 10 -15 seconds)
+## C.Useful Tool List (adding)  
+* Password breaker (unstable)  
+     * To break password protected worksheet (wait about 10 -15 seconds)  
 * Range A1
-     * To set range A1 all worksheets
+     * To set range A1 all worksheets  
 
 
